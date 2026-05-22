@@ -146,25 +146,26 @@ Tasks performed:
 
 ## Virtual Machines
 
-
+![virtual machines](images/virtual-machines.jpeg)
 
 ---
 
 ## VNet Peering
 
-![VNet Peering](images/your-image-name.jpg)
+![VNet Peering](images/vnet-peering.jpeg)
+![VNet Peering](images/vnet-peering(2).jpeg)
 
 ---
 
 ## Route Tables
 
-![Route Tables](images/your-image-name.jpg)
+![Route Tables](images/route-table.jpeg)
 
 ---
 
 ## Network Watcher
 
-![Network Watcher](images/your-image-name.jpg)
+![Network Watcher](images/network-watcher.jpeg)
 
 ---
 
@@ -172,4 +173,4 @@ Tasks performed:
 
 Kingsley Onuoha
 
-Cloud Engineer | Azure Administrator | Cloud Security | Azure Networking | PowerShel
+Cloud Engineer | Azure Administrator | Cloud Security | Azure Networking | PowerShell
